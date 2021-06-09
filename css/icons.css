@@ -1,0 +1,39 @@
+.fa-crown  {
+    font-size: 75px;
+    display: flex;
+    justify-content: center;
+    margin-top: 8px;
+    color: gold;
+}
+
+.fa-anchor {
+    font-size: 75px;
+    display: flex;
+    justify-content: center;
+    margin-top: 8px;
+    color: blue;
+}
+
+.fa-bell {
+    font-size: 75px;
+    display: flex;
+    justify-content: center;
+    margin-top: 8px;
+    color: red;
+}
+
+.fa-carrot  {
+    font-size: 75px;
+    display: flex;
+    justify-content: center;
+    margin-top: 8px;
+    color: orange;
+}
+
+.fa-chess-knight  {
+    font-size: 75px;
+    display: flex;
+    justify-content: center;
+    margin-top: 8px;
+    color: green;
+}
