@@ -1,14 +1,4 @@
-//function buttonStart()
 
-// document.getElementById("div1").style.backgroundColor = "yellow";
-
-let colorArray = ["red", "green", "blue", "yellow", "purple","orange"]
-
-let color1 = Math.floor(Math.random() * 5);
-let color2 = Math.floor(Math.random() * 5);
-let color3 = Math.floor(Math.random() * 5);
-
-//document.getElementById("div1").style.backgroundColor = colorArray[color1];
 
 
 let iconArray = ['<i class="fas fa-bell"></i>', '<i class="fas fa-anchor"></i>', '<i class="fas fa-crown"></i>', '<i class="fas fa-carrot"></i>', '<i class="fas fa-chess-knight"></i>']
